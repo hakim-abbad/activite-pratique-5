@@ -1,0 +1,5 @@
+langchain>=1.0
+langgraph>=1.0
+langchain-ollama>=1.0
+langchain-mcp-adapters>=0.2
+mcp>=1.10
